@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekr301&label=Profile%20views&color=0e75b6&style=flat" alt="princekr301" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princekr301" alt="princekr301" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princekr301" alt="Sahil" /></a> </p>
 
 
 <h1 align="left">
@@ -30,7 +30,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prince kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prince kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sahil rawat height="30" width="40" /></a>
 <a href="https://kaggle.com/princc301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="princc301" height="30" width="40" /></a>
 <a href="itsmeprince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__itsmeprince__/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/princekr301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="princekr301" height="30" width="40" /></a>
