@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahil Rawat</h1>
-<h3 align="center">Data Anaylst Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
+<h3 align="center">Data Science Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
 <h1 align="center">
- https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Ddata%2Banalytics%2Bbackground&psig=AOvVaw2Ad3RAD9swEqnt547GdQ1w&ust=1718957273193000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMjG75Ld6YYDFQAAAAAdAAAAABAE
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Ddata%2Banalytics%2Bbackground&psig=AOvVaw2Ad3RAD9swEqnt547GdQ1w&ust=1718957273193000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMjG75Ld6YYDFQAAAAAdAAAAABAE" />
 </h1>
 
 
@@ -44,19 +44,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princekr301&show_icons=true&locale=en" alt="princekr301" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princekr301&" alt="princekr301" /></p>## Hi there 👋
-
-<!--
-**sahilR15/sahilR15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princekr301&" alt="princekr301" /></p>
