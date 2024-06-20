@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
 <h1 align="center">
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Ddata%2Banalytics%2Bbackground&psig=AOvVaw2Ad3RAD9swEqnt547GdQ1w&ust=1718957273193000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMjG75Ld6YYDFQAAAAAdAAAAABAE" />
+ <img src="https://github.com/sahilR15/sahilR15/blob/main/data.jpg" />
 </h1>
 
 
